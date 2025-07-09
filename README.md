@@ -1,1 +1,2 @@
-Authentication (Frontend + Backend) using JWT
+# Authentication (Frontend + Backend) using JWT
+(Just for practice)
